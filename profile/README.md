@@ -1,4 +1,4 @@
-# Welcome to University of Birjand , CE Department
+# Welcome to Scientific Society of Computer Science, University of Birjand
 
 
 <p align="center">
