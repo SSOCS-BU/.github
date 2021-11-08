@@ -1,4 +1,4 @@
-# Welcome to Birjand University, CE Department
+# Welcome to University of Birjand , CE Department
 
 
 <p align="center">
